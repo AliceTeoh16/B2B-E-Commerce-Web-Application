@@ -77,22 +77,6 @@ The main modules developed for this project include:
 | Media storage | Cloudinary |
 | Security | Google reCAPTCHA |
 
-## Interface Screenshots
-
-The following public interface screenshots contain no logged-in account, customer, order or payment details. The captures show public storefront content only; footer contact details and personal identifiers are excluded or redacted before sharing externally.
-
-### Home Page
-
-![Organic Seeds home page](./screenshots/homepage.png)
-
-### Shop Page
-
-![Organic Seeds shop page](./screenshots/shop.png)
-
-### About Page
-
-![Organic Seeds about page](./screenshots/about.png)
-
 ## Project Structure
 
 ```text
